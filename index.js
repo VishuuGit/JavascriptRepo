@@ -671,14 +671,14 @@ firstContainer.addEventListener('mousedown', function(){
 
 // console.time("for Loop")
 
-for(let i=0;i<5;i++){
-    console.log(233)
-}
-console.timeEnd("for Loop")
+// for(let i=0;i<5;i++){
+//     console.log(233)
+// }
+// console.timeEnd("for Loop")
 
-console.time("while Loop")
-let i=0;
-while(i<5){
-    console.log(233)
-}
-console.timeEnd("while Loop") 
+// console.time("while Loop")
+// let i=0;
+// while(i<5){
+//     console.log(233)
+// }
+// console.timeEnd("while Loop") 
